@@ -7,7 +7,7 @@
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite)](https://sqlite.org)
 [![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-cc0000?logo=sqlalchemy)](https://www.sqlalchemy.org/)
 [![Made with LangChain](https://img.shields.io/badge/Made%20with-LangChain-ff69b4?logo=langchain)](https://www.langchain.com/)
-[![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-blue?logo=google)]
+[![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-blue?logo=google)
 
 **Gen-AI Finance** is a unified personal finance dashboard that harnesses the power of GenAI to simplify and enrich financial decision-making. It features **three distinct, AI-powered modules**—each designed to support users in understanding, managing, and reflecting on their spending habits through interactive and personalized experiences.
 
