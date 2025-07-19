@@ -287,8 +287,7 @@ function App() {
           <p
             className={`text-lg ${isDark ? "text-gray-400" : "text-gray-600"}`}
           >
-            © 2025 Financial App Suite. Empowering financial decisions through
-            technology.
+            Built with love 💖 by Maanvi, Manishika Gupta, Sania Verma, Krikshita Sachdeva (for Sansoftech pvt. ltd.)
           </p>
         </div>
       </footer>
