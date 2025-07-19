@@ -89,7 +89,7 @@ Transforms monthly expense data into **engaging, Gen Z-style stories** with visu
    ```bash
    pip install -r requirements.txt
 
-3. Run a app:
+3. Run the app:
    ```bash
    npm run dev
 
