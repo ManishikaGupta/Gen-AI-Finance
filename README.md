@@ -89,9 +89,9 @@ Transforms monthly expense data into **engaging, Gen Z-style stories** with visu
    ```bash
    pip install -r requirements.txt
 
-3. Run a module:
+3. Run a app:
    ```bash
-   streamlit run no_sql_chatbot.py
+   npm run dev
 
 ---
 
