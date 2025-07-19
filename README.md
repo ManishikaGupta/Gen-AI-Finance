@@ -26,6 +26,10 @@ An AI-powered chatbot that lets users ask natural language questions about their
   - Extracts relevant insights using Pandas  
   - Converts queries to pseudo-SQL logic using LLMs  
   - Filters, aggregates, and visualizes results dynamically
+
+Check out the app backend here - https://github.com/maanvi14/ChatSQL-AI-Powered-Data-Query-App
+
+
 <img width="2880" height="1800" alt="image" src= "https://github.com/user-attachments/assets/3edd32fa-92fd-40a3-8ce6-6acd5bcc84d0" />
 <img width="2880" height="1800" alt="image" src= "https://github.com/user-attachments/assets/3e8b9f89-5aff-4395-8454-c5aaf9493e80" />
 
@@ -39,6 +43,10 @@ A conversational assistant that helps users **set savings goals** and track prog
 - 💬 **Response:** The bot evaluates your transaction data and guides you with suggestions like:
   - “You’ve already spent ₹1200 on food delivery—consider cutting down to meet your goal.”
 - 👥 **For Whom:** Especially helpful for Gen Z users looking for personalized nudges rather than spreadsheets
+
+Check out the app backend here - https://github.com/ManishikaGupta/llmGoalChat
+
+
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e6625841-932e-4181-8254-60ded1fdbb8e" />
 ---
 
@@ -51,6 +59,9 @@ Transforms monthly expense data into **engaging, Gen Z-style stories** with visu
   - Generates visuals using Gemini Pro Vision  
   - Optionally reads out the story using text-to-speech (gTTS)
 - 🖼️ **Use Case:** Makes finance fun, especially for users new to tracking their money
+
+Check out the app backend here - https://github.com/SaniaVr/Financial_story
+
 
 <img width="2544" height="1330" alt="image" src="https://github.com/user-attachments/assets/5db660b7-0479-487e-85ec-f85bc2aa618b" />
 <img width="2552" height="1336" alt="image" src="https://github.com/user-attachments/assets/529fd3c8-3748-48f8-88be-8f31e74aecc3" />
