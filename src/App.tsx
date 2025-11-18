@@ -129,7 +129,7 @@ function App() {
       description:
         "AI-powered personal assistant that helps you set, track, and achieve your most ambitious goals.",
       icon: <MessageSquare className="h-12 w-12" />,
-      href: "https://llmgoalchat-nlyztnauvubv4xmghfrorx.streamlit.app/",
+      href: "https://ai-finance-agent-manishika.streamlit.app/",
       gradient: "bg-gradient-to-br from-blue-200 to-indigo-300",
       delay: "animation-delay-200",
     },
