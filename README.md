@@ -44,7 +44,7 @@ A conversational assistant that helps users **set savings goals** and track prog
   - “You’ve already spent ₹1200 on food delivery—consider cutting down to meet your goal.”
 - 👥 **For Whom:** Especially helpful for Gen Z users looking for personalized nudges rather than spreadsheets
 
-Check out the app backend here - https://github.com/ManishikaGupta/llmGoalChat
+Check out the app backend here - https://github.com/ManishikaGupta/AI-Finance-Agent
 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e6625841-932e-4181-8254-60ded1fdbb8e" />
@@ -131,6 +131,7 @@ for Sansoftech pvt. Ltd.
 
 
 Feel free to open issues, suggest features, or contribute!
+
 
 
 
